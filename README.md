@@ -1,4 +1,4 @@
-# PDF Chatbot RAG App
+# Conversational RAG over Uploaded PDFs (Streamlit + LangChain + FAISS)
 
 ## About
 A Streamlit-based Retrieval-Augmented Generation (RAG) chatbot that lets users upload PDF documents and interactively query their content. It:
