@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ```
 
 ## License
-MIT License © Your Name
+MIT License © Rishi Chhabra
 
 ## Author
 Built by Your Rishi Chhabra – [GitHub](https://github.com/rishichhabra29)
